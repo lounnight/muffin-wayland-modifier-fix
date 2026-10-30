@@ -40,8 +40,8 @@ Modifiers work normally there.
 applies the upstream fix, builds `muffin-6.6.3-2.fc44`, and installs it.
 It asks for your sudo password (build dependencies + package install).
 
+Just run the file
 ```sh
-cd ~/.local/share/cinnamon-modifier-fix
 ./build-and-install.sh
 ```
 
